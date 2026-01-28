@@ -6,7 +6,7 @@ Welcome to the official organization of **GreenBox**. We provide a microservices
 
 ---
 
-### 📺 Video Showcase
+### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/64px-YouTube_full-color_icon_%282017%29.svg.png" width="30" style="vertical-align:middle"/> YouTube
 
 Check out our project in action:
 
