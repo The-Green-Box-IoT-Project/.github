@@ -10,8 +10,8 @@ Welcome to the official organization of **GreenBox**. We provide a microservices
 
 Check out our project in action:
 
-* 🎬 **[Project Commercial](https://youtu.be/uhaBVm0UCng)** – A quick introduction to GreenBox.
-* 🕹️ **[Technical Demo](https://youtu.be/hq_VdNLdA7c)** – Deep dive into the features and app usage.
+* **[Project Commercial](https://youtu.be/uhaBVm0UCng)** – A quick introduction to GreenBox.
+* **[Technical Demo](https://youtu.be/hq_VdNLdA7c)** – Deep dive into the features and app usage.
 
 ---
 
@@ -19,10 +19,10 @@ Check out our project in action:
 
 The ecosystem is divided into two main components:
 
-* 🧠 **[GreenBox (Backend)](https://github.com/The-Green-Box-IoT-Project/GreenBox)**
+* **[GreenBox (Backend)](https://github.com/The-Green-Box-IoT-Project/GreenBox)**
     * Core logic, Microservices (Docker), MQTT & REST APIs.
     * Includes the Simulation Engine and Optimization Algorithms.
-* 📱 **[GreenBoxApp (Frontend)](https://github.com/The-Green-Box-IoT-Project/GreenBoxApp)**
+* **[GreenBoxApp (Frontend)](https://github.com/The-Green-Box-IoT-Project/GreenBoxApp)**
     * React Native mobile application for real-time monitoring and control.
 
 ---
